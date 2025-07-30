@@ -1,0 +1,71 @@
+Decision A:
+S1 (payoff) = 
+S2 (payoff) = 
+
+Decision B:
+S1 (payoff) = 
+S2 (payoff) = 
+
+Decision C:
+S1 (payoff) = 
+S2 (payoff) = 
+
+P(S2) = 0.60
+
+------------------------------
+
+Decision 3 F:
+node 6
+S1 (payoff) = .8
+S2 (payoff) = .2
+node 7
+S1 (payoff) = .8
+S2 (payoff) = .2
+
+Decision 4 UF:
+node 8
+S1 (payoff) = .3
+S2 (payoff) = .7
+node 9
+S1 (payoff) = .3
+S2 (payoff) = .7
+
+Decision 5 N:
+node 10
+S1 (payoff) = .7
+S2 (payoff) = .3
+node 11
+S1 (payoff) = .7
+S2 (payoff) = .3
+
+---
+
+Decision 3 F:
+node 6
+S1 (price) = 12
+S2 (price) = 3
+node 7
+S1 (price) = 9
+S2 (price) = 4
+
+Decision 4 UF:
+node 8
+S1 (price) = 12
+S2 (price) = 3
+node 9
+S1 (price) = 9
+S2 (price) = 4
+
+Decision 5 N:
+node 10
+S1 (price) = 12
+S2 (price) = 3
+node 11
+S1 (price) = 9
+S2 (price) = 4
+
+
+
+F= Favorable 
+UF= Unfavorable
+N = No Review
